@@ -31,7 +31,6 @@ Nyay Mitra is a full-stack legal AI assistant specifically designed for Indian l
 * **Multi-step Workflows:** Complex query handling with intelligent tool selection
 ### Document Processing
 * **RAG-Powered Q&A:** Ask questions about uploaded documents with high accuracy
-* **Document Classification:** Automatic categorization of legal documents
 * **Duplicate Detection:** SHA-256 content hashing prevents redundant uploads
 * **Adaptive Analysis:** Smart document analysis (small/medium/large strategies)
 * **Hybrid Retrieval:** Semantic search with fallback mechanisms
@@ -140,10 +139,10 @@ Nyay Mitra is a full-stack legal AI assistant specifically designed for Indian l
 * **Source Code**: [Hugging Face Repository](https://huggingface.co/spaces/aryan195a/Legal-ai-backend-1/tree/main)
 ### Frontend Application
 * **Live Application**: [Link to Frontend](#)
-* **Repository**: [Link to Frontend Repo](#)
+* **Repository**: [Link to Frontend Repo](https://github.com/LegalAI-tech/LegalAI)
 ### Node.js Backend
 * **API Server**: [Link to Backend](#)
-* **Repository**: [Link to Backend Repo](#)
+* **Repository**: [Link to Backend Repo](https://github.com/LegalAI-tech/LegalAI_Backend)
 
 <details>
 <summary>🔧 View Full API Endpoints</summary>
