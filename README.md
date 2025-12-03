@@ -60,11 +60,11 @@ Nyay Mitra is a full-stack legal AI assistant specifically designed for Indian l
 ### Full Stack
 | Layer | Technology |
 | :--- | :--- |
-| **Frontend** | [Your Frontend Tech Stack] |
+| **Frontend** | [NextJS] |
 | **API Gateway**| Node.js Backend |
 | **AI Processing**| FastAPI on Hugging Face |
-| **Database** | [Your Database] |
-| **Authentication**| [Your Auth System] |
+| **Database** | [NeonDB] |
+| **Authentication**| [JWT + OAuth 2.0] |
 
 ## 📋 System Architecture
 ```
